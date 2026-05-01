@@ -14,7 +14,7 @@ python 8 queens.py
 python tsp prgm.py  
 python WaterJugState 1.py  
 python a star prgm.py  
-python ao starpy  
+python ao star.py  
 
 ## Author
 Michelle Maria Sebastian
